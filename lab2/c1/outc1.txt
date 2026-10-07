@@ -1,0 +1,15 @@
+--- Ma hoa M1 ---
+Khoi tao: L=1010, R=1011
+Vong 1: L=1011, R=0011
+Vong 2: L=0011, R=1001
+Vong 3: L=1001, R=1001
+Vong 4: L=1001, R=0100
+Ciphertext M1: 0x94
+--- Ma hoa M2 ---
+Khoi tao: L=1010, R=1100
+Vong 1: L=1100, R=0100
+Vong 2: L=0100, R=1001
+Vong 3: L=1001, R=1110
+Vong 4: L=1110, R=0011
+Ciphertext M2: 0xE3
+So bit khac nhau: 6

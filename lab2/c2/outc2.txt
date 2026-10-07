@@ -1,0 +1,20 @@
+ECB: 02b0647de210da452e3bdcadc415814e02b0647de210da452e3bdcadc415814e
+  block 1: 02b0647de210da452e3bdcadc415814e
+  block 2: 02b0647de210da452e3bdcadc415814e
+CBC: edfa34c83d85b81c9be232c82e3749f4ccb08fd1d5530ad4275d9382717adcce
+  block 1: edfa34c83d85b81c9be232c82e3749f4
+  block 2: ccb08fd1d5530ad4275d9382717adcce
+CFB: f32c09a72a2e729ce61adf5b16d4adb01b4056d0fe5774fc3bedddd069c34de7
+  block 1: f32c09a72a2e729ce61adf5b16d4adb0
+  block 2: 1b4056d0fe5774fc3bedddd069c34de7
+ofb: f33c7efd48c3676420e21757ec48c9e5b165b93b93d2c8e460952c3567196b55
+  block 1: f33c7efd48c3676420e21757ec48c9e5
+  block 2: b165b93b93d2c8e460952c3567196b55
+ctr: f33c7efd48c3676420e21757ec48c9e5c8646ff59d0a48fb1b20c7353b8528e1
+  block 1: f33c7efd48c3676420e21757ec48c9e5
+  block 2: c8646ff59d0a48fb1b20c7353b8528e1
+ECB blocks giong nhau: True
+CBC blocks giong nhau: False
+CBC blocks giong nhau: False
+OFB blocks giong nhau: False
+CTR blocks giong nhau: False
