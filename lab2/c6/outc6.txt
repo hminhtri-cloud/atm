@@ -1,0 +1,7 @@
+Số nguyên tố 8 bits: 227
+Số nguyên tố 16 bits: 58417
+Số nguyên tố 64 bits: 17242547983984885943
+10 số nguyên tố lớn nhất nhỏ hơn số nguyên tố Mersenne thứ 10: [1021, 1019, 1013, 1009, 997, 991, 983, 977, 971, 967]
+Nhập một số nguyên nhỏ hơn 2^89 - 1 để kiểm tra xem nó có phải là số nguyên tố không: 9876543234567 không phải là số nguyên tố.
+Nhập số nguyên thứ nhất: Nhập số nguyên thứ hai: Ước số chung lớn nhất của 12345678 và 98765434567765 là: 1
+Nhập số nguyên a: Nhập số mũ x: Nhập số nguyên p: 45678^2345678 mod 79 = 31
