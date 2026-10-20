@@ -28,6 +28,7 @@ def avalanche_test(key):
 
 def main():
     keys = tuple(argument.encode() for argument in sys.argv[1:]) or DEFAULT_KEYS
+    
     if any(len(key) != DES.key_size for key in keys):
         raise SystemExit("Each key must be exactly 8 ASCII bytes")
 
